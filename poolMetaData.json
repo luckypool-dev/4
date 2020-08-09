@@ -1,6 +1,7 @@
 {
 "name": "Winner",
-"description": "⛳ Winner Winner Chicken Dinner - 0% fees!",
 "ticker": "WIN",
-"homepage": "https://cardanostaking.live"
+"extended": "https://data.pooltool.io/md/06eab233-5bd8-4095-af1d-0f188db65390",
+"homepage": "https://cardanostaking.live",
+"description": "⛳ Winner Winner Chicken Dinner - 0% fees and original ITN Verified Pool!"
 }
